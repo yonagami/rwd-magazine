@@ -147,3 +147,7 @@ hr {
   color: #00beef;
 }
 
+.image-wrapper {
+  display: grid;
+}
+
