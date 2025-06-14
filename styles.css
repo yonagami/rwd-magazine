@@ -27,3 +27,7 @@ a {
   color: linen;
 }
 
+main {
+  display: grid;
+}
+
