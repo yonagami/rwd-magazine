@@ -135,5 +135,7 @@ hr {
 
 .lists {
   list-style-type: none;
+  margin-top: 2rem;
+
 }
 
